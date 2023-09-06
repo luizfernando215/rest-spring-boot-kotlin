@@ -1,1 +1,1 @@
-# rest-spring-boot-java
+# rest-spring-boot-kotlin
